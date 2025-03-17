@@ -13,3 +13,7 @@ Deployment:
 
 Environment variables:
 	POSTGRES_URL: configured postgres database URL (tested with neon.tech)
+
+
+Tools:
+	Project uses `uv` and `just` which can be installed through a package manager.
